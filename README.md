@@ -5,7 +5,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1200&center=true&vCenter=true&width=950&lines=Software Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+React+%7C+TypeScript;OpenAI+API+%7C+AI+Agents+%7C+RAG+%7C+LLM+Workflows;AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD+%7C+Distributed+Systems" />
+  <br />
+  Java · Python · Spring Boot · React · TypeScript
+  <br />
+  OpenAI API · AI Agents · RAG · LLM Workflows
+  <br />
+  AWS · GCP · Docker · CI/CD · Distributed Systems
 </p>
 
 <p align="center">
