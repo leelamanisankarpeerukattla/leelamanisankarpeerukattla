@@ -1,0 +1,12 @@
+{
+  "github_username": "YOUR_GITHUB_USERNAME",
+  "max_recent_repos": 6,
+  "featured_repositories": [
+    "enterprise-order-management-system",
+    "distributed-api-rate-limiter",
+    "jpmorgan-midas-core"
+  ],
+  "exclude_repositories": [
+    "YOUR_GITHUB_USERNAME"
+  ]
+}
