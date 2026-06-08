@@ -1,21 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:7C3AED&text=Leela%20ManiSankar%20P&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Software%20Engineer%20%7C%20Intelligent%20Applications%20%26%20AI%20Systems&descSize=17&descAlignY=58" />
-</p>
+<h1 align="center">Leela Mani Sankar Peerukattla</h1>
+
+<h3 align="center">
+  Software Engineer | Intelligent Applications & AI Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1200&center=true&vCenter=true&width=950&lines=Backend-Focused+Full-Stack+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+React+%7C+TypeScript;OpenAI+API+%7C+AI+Agents+%7C+RAG+%7C+LLM+Workflows;AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD+%7C+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1200&center=true&vCenter=true&width=950&lines=Software Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+React+%7C+TypeScript;OpenAI+API+%7C+AI+Agents+%7C+RAG+%7C+LLM+Workflows;AWS+%7C+GCP+%7C+Docker+%7C+CI%2FCD+%7C+Distributed+Systems" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leelamanisankar-peerukattla/">
     <img src="https://img.shields.io/badge/LinkedIn-Leela%20ManiSankar%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:leelamanisankarpeerukattla@gmail.com">
+  <!-- <a href="mailto:leelamanisankarpeerukattla@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/leelamanisankarpeerukattla">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+<p align="center">
+  📧 <a href="mailto:leelamanisankarpeerukattla@gmail.com">leelamanisankarpeerukattla@gmail.com</a>
 </p>
 
 <p align="center">
@@ -160,7 +165,7 @@ This project connects practical backend engineering with AI-enabled product work
 
 <br />
 
-<img src="https://img.shields.io/badge/Private_Professional_Project-Case_Study_Available-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Private_Professional_Project-Case_Study_Available_If_Needed-7C3AED?style=for-the-badge" />
 
 </td>
 <td width="50%">
@@ -239,24 +244,7 @@ mindmap
       API-Driven UI
 ```
 
----
 
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leelamanisankarpeerukattla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=leelamanisankarpeerukattla&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leelamanisankarpeerukattla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leelamanisankarpeerukattla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 🤝 Open To
 
