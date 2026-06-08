@@ -32,9 +32,11 @@
 
 ## 👋 About Me
 
-I’m a **Software Engineer** focused on building **backend-heavy full-stack systems**, **intelligent applications**, and **AI-enabled product workflows**.
+I’m a **Software Engineer** focused on building **backend-focused full-stack systems**, **intelligent applications**, and **AI-enabled product workflows**.
 
 My engineering work combines **Java, Python, Spring Boot, React, TypeScript, OpenAI API, AI Agents, RAG, LLM workflows, AWS, GCP, Docker, and CI/CD** to design reliable APIs, scalable backend services, cloud-ready applications, and practical AI features for real product use cases.
+
+I enjoy turning complex product requirements into reliable backend services, clean APIs, and practical AI-powered workflows that can be tested, deployed, and maintained.
 
 ```txt
 Backend Engineering      APIs · Microservices · Spring Boot · Auth · Distributed Systems
@@ -62,7 +64,7 @@ I build backend systems with clean service boundaries, REST APIs, authentication
 
 ### 🤖 Intelligent Applications & AI
 
-I work on AI-enabled product workflows using LLM APIs, guided interactions, AI-assisted responses, prompt-driven automation, and agent/RAG-style concepts.
+I work on AI-enabled product workflows using LLM APIs, guided interactions, AI-assisted responses, prompt-driven automation, and agent/RAG concepts.
 
 **Core areas:** OpenAI API, AI Agents, RAG, LLM workflows, prompt engineering, automation, and AI-assisted customer engagement.
 
@@ -165,7 +167,7 @@ This project connects practical backend engineering with AI-enabled product work
 
 <br />
 
-<img src="https://img.shields.io/badge/Private_Professional_Project-Case_Study_Available_If_Needed-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Private_Professional_Project-Case_Study_Available_On_Request-7C3AED?style=for-the-badge" />
 
 </td>
 <td width="50%">
