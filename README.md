@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/leelamanisankar-peerukattla/">
     <img src="https://img.shields.io/badge/LinkedIn-Leela%20ManiSankar%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- <a href="mailto:leelamanisankarpeerukattla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> -->
+
   <a href="https://github.com/leelamanisankarpeerukattla">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
