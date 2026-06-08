@@ -10,9 +10,9 @@ Keep this README clean, business-focused, and easy to scan.
 I build backend and full-stack systems with strong focus on **APIs, distributed services, cloud deployment, data pipelines, and AI-powered product workflows**. My work spans marketplace platforms, identity/commerce systems, event-driven microservices, and practical LLM integrations.
 
 <p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/leelamanisankar-peerukattla/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:leelamanisankarpeerukattla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel" /></a> -->
 </p>
 
 ---
@@ -38,7 +38,7 @@ Event-driven order platform with Spring Boot microservices, Kafka, PostgreSQL, R
 
 **Why it matters:** demonstrates production-style backend architecture, service boundaries, async workflows, reliability, and cloud-ready deployment.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">View Repository</a>
+<a href="https://github.com/leelamanisankarpeerukattla/enterprise-order-management-system">View Repository</a>
 
 </td>
 <td width="50%">
@@ -49,7 +49,7 @@ High-performance API protection service using Java, Spring Boot, Redis Lua scrip
 
 **Why it matters:** shows systems thinking, performance control, fault tolerance, and API platform security.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">View Repository</a>
+<a href="https://github.com/leelamanisankarpeerukattla/distributed-api-rate-limiter">View Repository</a>
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Spring Boot + Kafka transaction processing simulation with JPA persistence, H2 d
 
 **Why it matters:** demonstrates financial-style event processing, testing, and backend integration.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME">View Repository</a>
+<a href="https://github.com/leelamanisankarpeerukattla/forage-midas">View Repository</a>
 
 </td>
 </tr>
