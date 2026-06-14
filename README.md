@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Leela%20ManiSankar%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/leelamanisankarpeerukattla">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://leela-portfolio-blond.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 <p align="center">
