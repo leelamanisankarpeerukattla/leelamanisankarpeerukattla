@@ -14,5 +14,5 @@ Focused on distributed systems, system design, cloud-native engineering, and mod
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leelamanisankar-peerukattla/">LinkedIn</a> •
-<a href="https://leela-portfolio-blond.vercel.app/">Portfolio</a>
+<a href="https://leelamanisankar.vercel.app/">Portfolio</a>
 </p>
